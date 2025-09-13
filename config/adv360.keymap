@@ -2,7 +2,7 @@
 #include <dt-bindings/zmk/mouse.h>
 
 // override default scroll and mouse speed
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 10
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 40
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 1200
 
 #include <behaviors.dtsi>
