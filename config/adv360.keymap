@@ -38,11 +38,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp EQUAL  &kp N1      &kp N2          &kp N3       &kp N4            &kp N5  &tog 2                                                              &mo 3          &kp N6  &kp N7                &kp N8            &kp N9             &kp N0                 &kp MINUS
-&kp TAB    &kp Q       &kp W           &kp F        &kp P             &kp B   &none                                                               &none          &kp J   &kp L                 &kp U             &kp Y              &kp SEMICOLON          &kp BSLH
-&kp ESC    &hm LWIN A  &hm LEFT_ALT R  &hm LCTRL S  &hm LEFT_SHIFT T  &kp G   &kp INS      &mo 4         &tog 4        &kp LGUI   &sk LEFT_SHIFT  &none          &kp M   &hm RIGHT_SHIFT N     &hm RCTRL E       &hm RALT I         &hm RWIN O             &kp SQT
-&sk LSHFT  &kp Z       &kp X           &kp C        &kp D             &kp V                              &kp HOME      &kp PG_UP                                 &kp K   &kp H                 &kp COMMA         &kp DOT            &kp FSLH               &kp RSHFT
-&none      &kp GRAVE   &kp CAPS        &kp LEFT     &kp RIGHT                 &lt 1 SPACE  &lt 2 DELETE  &kp END       &kp PG_DN  &kp ENTER       &kp BACKSPACE          &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS  &mo 1
+&kp EQUAL  &kp N1            &kp N2        &kp N3    &kp N4     &kp N5  &tog 2                                                          &mo 3          &kp N6  &kp N7                &kp N8            &kp N9             &kp N0                 &kp MINUS
+&kp TAB    &kp Q             &kp W         &kp W     &kp E      &kp R   &none                                                           &none          &kp J   &kp L                 &kp U             &kp Y              &kp SEMICOLON          &kp BSLH
+&kp ESC    &kp LEFT_SHIFT    &kp A         &kp S     &kp D      &kp F   &kp INS    &kp H       &kp J         &kp LGUI   &sk LEFT_SHIFT  &none          &kp M   &hm RIGHT_SHIFT N     &hm RCTRL E       &hm RALT I         &hm RWIN O             &kp SQT
+&sk LSHFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp C     &kp D      &kp V                          &kp HOME      &kp PG_UP                                 &kp K   &kp H                 &kp COMMA         &kp DOT            &kp FSLH               &kp RSHFT
+&none      &kp GRAVE         &kp CAPS      &kp LEFT  &kp RIGHT          &kp SPACE  &kp ESCAPE  &kp B         &kp PG_DN  &kp ENTER       &kp BACKSPACE          &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp RIGHT_PARENTHESIS  &mo 1
             >;
         };
 
